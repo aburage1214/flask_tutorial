@@ -1,0 +1,4 @@
+flask3以降オートリロード付きのサーバ起動
+flask run --debugger --reload
+
+53ページから
